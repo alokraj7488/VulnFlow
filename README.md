@@ -28,7 +28,7 @@ sudo apt install -y nmap nikto gobuster whois dnsutils wafw00f sslscan whatweb s
 **Gobuster** uses /usr/share/wordlists/dirb/common.txt – install seclists or adjust path if needed.
 ## Run
 1. git clone https://github.com/alokraj7488/VulnFlow.git  
-2. cd vuln-suite 
+2. cd VulnFlow 
 3. python3 main.py  
 
 ⚠️ **Important**  
